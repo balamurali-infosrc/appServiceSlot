@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\slotdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\slotdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\bower.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\bower.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|c:\\users\\balamuraliramakrishn\\documents\\appserviceslot\\slotdemo\\slotdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B84DB89D-7AB8-4303-AED2-EDFE796C9E5B}|SlotDemo\\SlotDemo.csproj|solutionrelative:slotdemo\\slotdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SlotDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SlotDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:05:24.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Startup.cs",
+              "RelativeDocumentMoniker": "SlotDemo\\Startup.cs",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Startup.cs",
+              "RelativeToolTip": "SlotDemo\\Startup.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:50:15.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "SlotDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\appsettings.json",
+              "RelativeToolTip": "SlotDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T06:39:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bower.json",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\bower.json",
+              "RelativeDocumentMoniker": "SlotDemo\\bower.json",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\bower.json",
+              "RelativeToolTip": "SlotDemo\\bower.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T06:39:05.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\bundleconfig.json",
+              "RelativeDocumentMoniker": "SlotDemo\\bundleconfig.json",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\bundleconfig.json",
+              "RelativeToolTip": "SlotDemo\\bundleconfig.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T06:39:12.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SlotDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Program.cs",
+              "RelativeToolTip": "SlotDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:18:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SlotDemo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SlotDemo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T06:49:51.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlotDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\SlotDemo.csproj",
+              "RelativeDocumentMoniker": "SlotDemo\\SlotDemo.csproj",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\SlotDemo.csproj",
+              "RelativeToolTip": "SlotDemo\\SlotDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T06:47:15.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "SlotDemo\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "SlotDemo\\Pages\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T06:53:06.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SlotDemo\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "SlotDemo\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T06:47:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SlotDemo\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SlotDemo\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T06:47:43.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SlotDemo\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "SlotDemo\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T06:47:46.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SlotDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SlotDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T06:43:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SlotDemo",
+              "DocumentMoniker": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\SlotDemo.csproj",
+              "RelativeDocumentMoniker": "SlotDemo\\SlotDemo.csproj",
+              "ToolTip": "C:\\Users\\BalamuraliRamakrishn\\Documents\\appServiceSlot\\SlotDemo\\SlotDemo.csproj",
+              "RelativeToolTip": "SlotDemo\\SlotDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T06:38:54.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
